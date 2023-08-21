@@ -1,3 +1,5 @@
 # CursoAngular
 
-<img src="https://assets.stickpng.com/images/5847ea22cef1014c0b5e4833.png" width="100" height="100" />
+<p>Curso Angular - hora de codar (Youtube)</p>
+
+<img src="https://angular.io/assets/images/logos/angular/angular.png" width="150" height="150" />
